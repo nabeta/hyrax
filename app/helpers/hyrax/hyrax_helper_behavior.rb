@@ -20,6 +20,7 @@ module Hyrax
         'en' => 'English',
         'es' => 'Español',
         'fr' => 'Français',
+        'ja' => '日本語',
         'it' => 'Italiano',
         'pt-BR' => 'Português do Brasil',
         'zh' => '中文'
